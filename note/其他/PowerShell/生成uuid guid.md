@@ -1,0 +1,6 @@
+
+
+```javascript
+[guid]::NewGuid()
+```
+

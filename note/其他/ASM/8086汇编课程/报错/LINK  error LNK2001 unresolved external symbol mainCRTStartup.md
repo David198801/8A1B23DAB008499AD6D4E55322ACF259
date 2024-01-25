@@ -1,0 +1,1 @@
+LINK : error LNK2001: unresolved external symbol _mainCRTStartup

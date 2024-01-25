@@ -1,0 +1,8 @@
+# 忽略的文件
+*.log
+*.pyc
+
+# 忽略的目录
+__pycache__/
+logs/
+venv/

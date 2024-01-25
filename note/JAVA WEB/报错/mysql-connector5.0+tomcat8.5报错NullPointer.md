@@ -1,0 +1,1 @@
+mysql-connector5.0+tomcat8.5，使用JNDI获取数据源配置连接池获取连接会报错，升级connector或使用tomcat7即可

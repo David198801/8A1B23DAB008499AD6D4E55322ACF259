@@ -1,0 +1,1 @@
+https://mediaarea.net/ja/MediaInfo

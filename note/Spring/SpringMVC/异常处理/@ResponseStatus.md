@@ -1,0 +1,1 @@
+@ResponseStatus除了用在异常类上，规定状态码和异常信息，还可以用在handler方法上，使用了该注解的handler方法会直接响应异常页面

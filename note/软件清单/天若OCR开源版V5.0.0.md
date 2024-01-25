@@ -1,0 +1,1 @@
+https://github.com/AnyListen/tianruoocr/releases

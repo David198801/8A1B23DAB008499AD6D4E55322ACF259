@@ -1,0 +1,1 @@
+mapper执行方法时传入了new Train()而没有传入参数里的train

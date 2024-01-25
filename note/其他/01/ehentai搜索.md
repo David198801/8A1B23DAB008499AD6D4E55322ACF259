@@ -1,0 +1,1 @@
+https://ehwiki.org/wiki/Gallery_Searching

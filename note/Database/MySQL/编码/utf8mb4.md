@@ -1,0 +1,3 @@
+mysql中的utf8最多只能支持3bytes长度的字符编码，对于一些需要占据4bytes的文字，mysql的utf8就不支持了，要使用utf8mb4才行
+
+MySQL在5.5.3之后增加了这个utf8mb4的编码

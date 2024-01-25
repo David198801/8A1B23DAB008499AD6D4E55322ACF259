@@ -1,0 +1,3 @@
+1.清空T_UI_PERSONALIZED并清理系统缓存
+
+2.检查界面的DDL是否改动

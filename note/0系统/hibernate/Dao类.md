@@ -1,0 +1,1 @@
+com.yss.sofa.framework.dao.hibernate。

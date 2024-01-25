@@ -1,0 +1,1 @@
+vue2使用element-ui动态生成checkbox后，点击checkbox不能勾选的问题

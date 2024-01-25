@@ -1,0 +1,1 @@
+conf/web.xml是所有web application的默认配置，每个web application部署时都会先加载conf/web.xml，然后再加载WEB-INF/web.xml

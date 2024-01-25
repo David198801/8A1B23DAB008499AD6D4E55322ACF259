@@ -1,0 +1,3 @@
+检查类有没有注册为组件，注册了则检查spring配置文件有没有在classes中
+
+检查组件扫描，使用exclude的filter，user default filter不用配
