@@ -1,0 +1,1 @@
+https://github.com/HMBSbige/NatTypeTester/releases/tag/6.2.0,需要.NET Core

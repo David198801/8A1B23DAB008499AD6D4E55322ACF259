@@ -1,0 +1,1 @@
+删除workspace的 .metadata\.plugins\org.eclipse.ui.workbench

@@ -1,0 +1,3 @@
+CGI与FastCGI
+
+关于CGI和FastCGI的理解

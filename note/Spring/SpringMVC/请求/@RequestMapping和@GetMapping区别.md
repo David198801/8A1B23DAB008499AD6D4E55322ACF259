@@ -1,0 +1,5 @@
+@RequestMapping和@GetMapping区别
+
+@RequestMapping可以指定GET、POST请求方式
+
+@GetMapping等价于@RequestMapping的GET请求方式

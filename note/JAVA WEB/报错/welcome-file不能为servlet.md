@@ -1,0 +1,1 @@
+welcome-file只能为实际存在的文件，设为servlet会导致tomcat启动卡住，访问404，过很久才报错

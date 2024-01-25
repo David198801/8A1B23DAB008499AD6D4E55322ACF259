@@ -1,0 +1,1 @@
+https://hyper.readthedocs.io/en/latest/quickstart.html#requests-integration

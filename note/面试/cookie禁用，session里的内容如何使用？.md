@@ -1,0 +1,1 @@
+把cookie的值放在url中，用矩阵变量发送，以获取sessionid

@@ -1,0 +1,6 @@
+
+
+```javascript
+ALTER SESSION SET NLS_DATE_LANGUAGE='AMERICAN';
+```
+

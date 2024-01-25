@@ -1,0 +1,17 @@
+
+
+```javascript
+SELECT SQL_TEXT, LAST_ACTIVE_TIME,SQL_FULLTEXT FROM v$sql
+ORDER BY LAST_ACTIVE_TIME DESC;
+```
+
+
+
+```javascript
+select SQL_TEXT,LAST_ACTIVE_TIME,SQL_FULLTEXT from v$sqlarea t 
+where t.PARSING_SCHEMA_NAME in ('ACSSPLIT') 
+order by t.LAST_ACTIVE_TIME DESC;
+```
+
+where t.FIRST_LOAD_TIME like '2010-06-30%'
+

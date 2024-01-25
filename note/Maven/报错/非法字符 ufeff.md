@@ -1,0 +1,1 @@
+java文件编码为utf-8-sig，转为utf-8即可，idea中可以转成gbk再转成utf-8

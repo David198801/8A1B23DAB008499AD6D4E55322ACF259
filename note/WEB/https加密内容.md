@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/187655/are-https-headers-encrypted

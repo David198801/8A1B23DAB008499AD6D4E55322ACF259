@@ -1,0 +1,1 @@
+win10关闭自动更新，InControl

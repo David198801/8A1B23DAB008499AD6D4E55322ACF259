@@ -1,0 +1,47 @@
+
+
+```javascript
+-- CASE WHEN THEN 语句
+-- 结尾有END
+-- ELSE可省略，默认为NULL
+
+-- 用法1：类似swich-case语句
+SELECT i, -- num.i为1,2,3,4,5;
+CASE i
+WHEN 1 THEN CONCAT('数字为：',i)
+WHEN 2 THEN CONCAT('数字为：',i)
+WHEN 3 THEN CONCAT('数字为：',i)
+ELSE '空'
+END
+FROM num;
+/*
+结果
+1	数字为：1
+2	数字为：2
+3	数字为：3
+4	空
+5	空
+*/
+
+
+-- 用法2：类似多重if
+-- !CASE后不带字段了,直接跟WHEN
+SELECT i, -- num.i为1,2,3,4,5;
+CASE
+WHEN i=3 THEN '数字等于3'
+WHEN i>3 THEN '数字大于3'
+WHEN i<3 THEN '数字小于3'
+END
+FROM num;
+/*
+结果
+1	数字小于3
+2	数字小于3
+3	数字等于3
+4	数字大于3
+5	数字大于3
+*/
+
+
+```
+
