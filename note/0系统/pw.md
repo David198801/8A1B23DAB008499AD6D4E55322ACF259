@@ -28,6 +28,12 @@ https://180.167.198.186:10086/svn/TG50/Project Management/渣打银行/1.8环�
 
 
 
+hxb
+
+http://219.141.235.67:20080/svn/acssvn/Control/hxbank/Code/dev20220110
+
+
+
 vpn
 
 https://113.108.96.205:4433
