@@ -18,6 +18,18 @@ http://192.168.101.103:8081/nexus/content/groups/public
 
 
 
+详细设计路径
+
+http://219.141.235.67:20080/svn/acssvn/Control/dev/Project R & D/Design/详细设计
+
+http://219.141.235.67:20080/svn/acssvn/Control/dev/Project R & D/Test/01.项目管理/公司运维项目/04.项目产物
+
+
+
+
+
+
+
 sc
 
 liuzhongbin/YssAcs300377lzb
