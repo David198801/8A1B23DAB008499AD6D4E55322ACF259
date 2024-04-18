@@ -28,3 +28,7 @@ yt-dlp https://youtube.com/xxxx
 -f "best[ext=mp4]"
 ```
 
+下载播放列表
+```javascript
+yt-dlp --download-archive videos.txt  https://www.youtube.com/playlist?list=PL22iamDQYGnNBnvKFjmqE3Oj5OqqBYOVY -o '%(playlist_title)s[%(playlist_id)s]/%(title)s[%(id)s].%(ext)s'
+```

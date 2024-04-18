@@ -2,37 +2,13 @@
 
 
 
-虐杀原形2 豪华版
-
-下载地址：https://drhnilw6y3.feishu.cn/docx/Vy4EdBPEvobjXtxASRacBrCTnrd
-
-虐杀原形1 典藏版
-
-下载地址：https://drhnilw6y3.feishu.cn/docx/RP3adFMuoogbBax2h0jclkF7nrd
-
-游戏安装有遇到任何问题请和我们联系，我们负责到底。
-
-
-
-PS：另外五星好评可免费获赠送强大修改器。
-
-
-
-游戏可能遇到的卡顿\掉帧、闪退等问题在教程中都详细说明了，请照着解决。谢谢！
-
-P.s. 游戏卡顿/闪退的解决办法：
-
-https://video3.yangkeduo.com/i1/2021-12-06/429e3f5562e2150fc13e589e8e921e64.mp4
-
-
-
 openai
 
 https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 
 wsnwnmtagu@hotmail.com----7VnMg7ST6qt----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----真
 
-新密码963999lzbQQ
+新密码经典
 
 
 
@@ -48,47 +24,17 @@ https://sub.speed17sub.com/api/v1/client/subscribe?token=4efa88e0e058e31ad9b3f4d
 
 
 
-变监狱，星之终途，宝石心学院，ambitious mission 佚名代码 黑羊镇 苍彼
-
-
-
-
-
-
-
-ろんな
-
-	mei 
-
-
-
 
 
 https://www.south-plus.net/attachment/upload/70/1272670.jpg
 
 
 
-https://www.youtube.com/watch?v=LnjGQae8lts
 
 
-
-https://www.zhihu.com/answer/25345790
-
-
+最良心的软件可以良心到什么程度？
 
 https://www.zhihu.com/answer/153886419
-
-
-
-
-
-https://zhuanlan.zhihu.com/p/476298064
-
-
-
-https://www.zhihu.com/answer/2440920147
-
-
 
 
 
@@ -97,14 +43,6 @@ https://www.zhihu.com/answer/2440920147
 Spring 泛型依赖注入
 
 https://blog.csdn.net/qq_36761831/article/details/88133065
-
-
-
-e站cookie
-
-ipb_member_id: 3680681
-ipb_pass_hash: 638fd68099ca1ef7fe414177daf7f285
-igneous: 9f7fbd47c
 
 
 
@@ -201,38 +139,13 @@ VERBOSE 0
 
 
 
-DNF壁纸
-
-http://df.nexon.com/df/data/deco
-
-
-
-
-
-[xz+.7z](assets/xz+.7z)
-
-
-
-
-
-https://bbs.colg.cn/thread-8045205-1-1.html
-
-https://bbs.colg.cn/thread-8080331-1-1.html
-
 
 
 WAAA-087，工藤ララ
 
 
 
-キミに迫るオトメのレッスン
 
 
 
-Snapchat滤镜
 
-替换摄像头
-
-安卓：https://repo.xposed.info/module/com.example.vcam
-
-win：obs虚拟摄像头，https://zhuanlan.zhihu.com/p/157806785
