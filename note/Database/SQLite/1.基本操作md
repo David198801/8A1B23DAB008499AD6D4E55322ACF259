@@ -1,0 +1,18 @@
+创建
+
+```javascript
+$ sqlite3 DatabaseName.db
+```
+
+打开或创建
+
+```javascript
+sqlite>.open test.db
+```
+
+退出
+
+```sql
+.quit
+```
+
