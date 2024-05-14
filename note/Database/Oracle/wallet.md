@@ -28,9 +28,12 @@ mkstore -wrl /tmp/wl -create
 mkstore -wrl /tmp/wl -createCredential localhost:1521/myservice user pass
 ```
 
-连接
+连接，**连接时使用的域名/ip必须与建立凭证时完全一致**
 
 ```javascript
+// 使用"oracle.net.wallet_location"属性连接Oracle数据库
+//放-Doracle.net.wallet_location也行，System.setProperty也行
+//放properties文件也行，放oracle.properties会自动读取
 Class.forName("oracle.jdbc.driver.OracleDriver");
 Properties props = new Properties();
 props.setProperty("oracle.net.wallet_location", "c:\\oracle\\wallet");
@@ -110,9 +113,6 @@ public class OracleWalletExample {
 
 
 ```javascript
-// 使用"oracle.net.wallet_location"属性连接Oracle数据库
-//放-Doracle.net.wallet_location也行，System.setPropertie也行
-//放properties文件也行，放oracle.properties会自动读取
 Properties props = new Properties();
 //props.setProperty("oracle.net.wallet_location", "(SOURCE=(METHOD=FILE)(METHOD_DATA=(DIRECTORY=/path_to_wallet_directory)))");
 props.setProperty("oracle.net.wallet_location", "/path_to_wallet_directory");
