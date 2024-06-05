@@ -2,8 +2,6 @@
 
 https://en.wikipedia.org/wiki/OpenJDK
 
-https://tuyucheng7.github.io/javalibs.html
-
 
 
 centos

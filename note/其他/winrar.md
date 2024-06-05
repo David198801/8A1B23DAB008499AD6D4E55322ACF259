@@ -2,7 +2,7 @@
 
 [winrarv6.02x64sc.exe](assets/winrarv6.02x64sc.exe)
 
-
+[rarreg.key](assets/rarreg.key)
 
 ```javascript
 rar a 输出文件 输入文件/目录 

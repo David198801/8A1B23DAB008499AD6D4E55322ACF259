@@ -1,3 +1,7 @@
+https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/connect-jdbc-thin-wallet.html
+
+
+
 https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/connect-jdbc-thin-wallet.html#GUID-32A48CAA-89AC-40A4-AFD1-BB962C562805
 
 

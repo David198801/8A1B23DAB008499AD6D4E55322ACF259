@@ -1,4 +1,4 @@
-CloudflareST
+CloudflareST，https://github.com/XIU2/CloudflareSpeedTest
 
 
 

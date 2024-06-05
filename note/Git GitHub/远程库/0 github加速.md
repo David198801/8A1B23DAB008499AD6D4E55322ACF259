@@ -4,13 +4,11 @@ https://www.zhihu.com/question/38192507?sort=created
 
 本地反代
 
-https://github.com.cnpmjs.org/dotnetcore/FastGithub/
-
-https://ghproxy.com/https://github.com/dotnetcore/FastGithub/releases/download/2.1.4/fastgithub_win-x64.zip
+watt、steamcommunity 302
 
 
 
-可以网页访问
+加速
 
 https://github.com.cnpmjs.org/
 
@@ -20,22 +18,22 @@ https://hub.fastgit.org/
 
 ghproxy，镜像，git、gits、githubusercontent、release
 
-https://ghproxy.com/
+https://gh-proxy.com/
 
 https://mirror.ghproxy.com/
 
+https://ghproxy.org/
+
 ```javascript
-https://ghproxy.com/https://github.com/placemarker/jQuery-MD5.git
-https://ghproxy.com/https://raw.githubusercontent.com/stilleshan/ServerStatus/master/Dockerfile
+https://mirror.ghproxy.com/https://github.com/placemarker/jQuery-MD5.git
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/stilleshan/ServerStatus/master/Dockerfile
 ```
 
 搭建python、cf worker：https://github.com/hunshcn/gh-proxy
 
-http://shrill-pond-3e81.hunsh.workers.dev/
-
 自
 
-https://gh.work0493.buzz/
+https://gh.work0943.top/
 
 
 

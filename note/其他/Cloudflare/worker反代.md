@@ -4,11 +4,13 @@ https://bili33.top/2019/10/25/CloudFlare-Workers/
 
 https://wangdalao.com/3439.html
 
-在线输入网址代理
-
-https://www.skxlz.top/2020/05/02/19/
 
 
+通用
+
+https://github.com/ymyuuu/Cloudflare-Workers-Proxy/raw/main/worker.js
+
+https://raw.githubusercontent.com/EtherDream/jsproxy/master/cf-worker/index.js
 
 
 
