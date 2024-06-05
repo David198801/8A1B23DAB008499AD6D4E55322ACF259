@@ -1,3 +1,11 @@
+清空提交记录
+
+https://www.cnblogs.com/xfstu/p/17646192.html
+
+
+
+
+
 https://blog.csdn.net/u013553529/article/details/88087047
 
 1.reset，回退到某个commit
