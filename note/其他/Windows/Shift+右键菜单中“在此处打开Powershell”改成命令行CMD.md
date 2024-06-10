@@ -2,7 +2,7 @@
 
 1，按下window + R, 输入regedit，打开注册表编辑器，定位到
 
-计算机\HKEY_CLASSES_ROOT\Directory\Background\shell\cmd。
+计算机\HKEY_CLASSES_ROOT\Directory\Background\shell\cmd
 
 2，在该项上右键，点击权限-高级-所有者-更改，输入你的用户名，然后一路点击确定。
 

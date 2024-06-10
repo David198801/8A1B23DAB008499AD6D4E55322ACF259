@@ -12,6 +12,8 @@ https://www.oracle.com/java/technologies/javase/javase7-archive-downloads.html
 
 jdk8
 
+https://www.oracle.com/java/technologies/downloads/?er=221886#java8
+
 https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html
 
 旧版

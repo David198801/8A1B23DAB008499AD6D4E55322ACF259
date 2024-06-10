@@ -4,13 +4,19 @@ https://en.wikipedia.org/wiki/OpenJDK
 
 
 
+官方下载
+
+https://jdk.java.net/archive/
+
+https://jdk.java.net/java-se-ri/8-MR5，jdk8，版本较老，reference use only
+
+
+
 centos
 
 ```javascript
 yum install java-1.8.0-openjdk-headless.x86_64 1:1.8.0.322.b06-1.el7_9
 ```
-
-
 
 
 
