@@ -16,8 +16,10 @@ def checkAndMakeDir(path):
     if not os.path.exists(path):
         os.makedirs(path)
 
-current_dir = os.path.dirname(os.path.abspath(__file__))
-base_dir = os.path.dirname(current_dir)
+def get_basepath():
+    return os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
+
+base_dir = get_basepath()
 today = datetime.datetime.now()
 log_dir = base_dir+"/logs"
 checkAndMakeDir(log_dir)
@@ -60,6 +62,15 @@ def copy_files_in_links(md_file_path):
     if new_md_content!=md_content:
         logging.info("写入文件"+md_file_path)
         write_md_file(md_file_path, new_md_content)
+        
+
+def soft_delete(path):
+    base_path = get_basepath()
+    del_dir = os.path.join(base_path,"delete")
+    new_path = del_dir + os.path.sep + path.replace(base_path,"")
+    checkAndMakeDir(os.path.dirname(new_path))
+    logging.info("[delete] "+path)
+    shutil.move(path,new_path)
 
 # 测试
 if __name__ == '__main__':
