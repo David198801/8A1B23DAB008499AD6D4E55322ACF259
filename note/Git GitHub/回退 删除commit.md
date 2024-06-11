@@ -1,6 +1,20 @@
-清空提交记录
+清空提交记录 git rebase --hard
 
 https://www.cnblogs.com/xfstu/p/17646192.html
+
+
+
+如何删除分支上的文件（包含历史文件）
+
+https://www.cnblogs.com/minskiter/p/14691824.html
+
+```javascript
+git filter-branch --force --index-filter "git rm --cached --ignore-unmatch 'note/密码/我的密码.md' " --prune-empty --tag-name-filter cat -- --all
+```
+
+从仓库中删除敏感数据
+
+https://docs.github.com/cn/enterprise-server@2.21/github/authenticating-to-github/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository
 
 
 
