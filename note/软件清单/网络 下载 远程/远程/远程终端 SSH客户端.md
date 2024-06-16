@@ -2,7 +2,9 @@ xshell
 
 putty
 
-securecrt
+SecureCRT
+
+SSH Secure Shell Client
 
 mobaxterm
 
@@ -15,3 +17,9 @@ WindTerm
 Termius
 
 NextSSH
+
+graSSHopper
+
+nxshell
+
+simpleremote

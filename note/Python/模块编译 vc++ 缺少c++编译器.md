@@ -14,9 +14,9 @@ Microsoft C++ Build Tools
 
 https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/
 
-打开下载器自动选择build tools,安装即可
+打开下载器自动选择build tools,勾选【使用C++的桌面开发】，安装即可
 
-https://visualstudio.microsoft.com/zh-hans/visual-cpp-build-tools/
+
 
 https://cloud.tencent.com/developer/ask/220764
 
