@@ -24,7 +24,13 @@
 
 scp username@servername:远程目录/文件名 本地目录
 
-例：scp root@192.168.0.101:/var/www/test.txt /var/www/local_dir
+```shell
+scp root@192.168.0.101:/var/www/test.txt /var/www/local_dir
+```
+
+
+
+
 
 
 
