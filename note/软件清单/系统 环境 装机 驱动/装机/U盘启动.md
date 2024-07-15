@@ -5,3 +5,5 @@ rufus
 UNetbootin
 
 ventory
+
+WinSetupFromUSB
