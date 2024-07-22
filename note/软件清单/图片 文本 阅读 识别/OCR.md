@@ -14,6 +14,10 @@ https://github.com/PaddlePaddle/PaddleOCR
 
 https://github.com/lewangdev/PaddleWebOCR
 
+https://github.com/breezedeus/cnocr
+
+https://github.com/opendatalab/PDF-Extract-Kit
+
 天若批量文字识别
 
 汉王OCR
