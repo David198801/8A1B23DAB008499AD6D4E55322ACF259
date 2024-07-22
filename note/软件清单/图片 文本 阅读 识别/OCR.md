@@ -6,6 +6,8 @@ ABBYY
 
 Umi-OCR，https://github.com/hiroi-sora/Umi-OCR，使用PaddleOCR引擎
 
+python，pip install ddddocr，https://github.com/sml2h3/ddddocr
+
 https://github.com/myhub/tr
 
 https://github.com/alisen39/TrWebOCR
