@@ -1,3 +1,12 @@
+linux更新时间
+```shell
+ntpdate ntp.ntsc.ac.cn
+```
+
+
+
+
+
 国家授时中心
 
 ntp.ntsc.ac.cn

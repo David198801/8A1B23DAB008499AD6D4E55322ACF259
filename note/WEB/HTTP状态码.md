@@ -73,4 +73,3 @@ HTTP状态码列表:
 | 504 | Gateway Time-out | 充当网关或代理的服务器，未及时从远端服务器获取请求 |
 | 505 | HTTP Version not supported | 服务器不支持请求的HTTP协议的版本，无法完成处理 |
 
-
