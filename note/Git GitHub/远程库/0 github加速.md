@@ -18,11 +18,13 @@ https://hub.fastgit.org/
 
 ghproxy，镜像，git、gits、githubusercontent、release
 
-https://gh-proxy.com/
-
 https://mirror.ghproxy.com/
 
 https://ghproxy.org/
+
+https://kkgithub.com/
+
+https://dgithub.xyz/
 
 ```javascript
 https://mirror.ghproxy.com/https://github.com/placemarker/jQuery-MD5.git

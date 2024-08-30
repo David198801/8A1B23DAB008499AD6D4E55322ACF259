@@ -10,7 +10,9 @@ http://192.168.100.238/svn/acssvn/Control/dev/Code/componentSplit/001/acs
 
 
 
+svn
 
+http://219.141.235.67:18081/nexus/content/groups/public
 
 http://192.168.101.103:8081/nexus/content/groups/public
 
