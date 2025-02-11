@@ -58,7 +58,17 @@ https://113.108.96.205:4433
 
 
 
+vpn
+
+新vpn访问https://222.240.48.26:60201点击右上角的下载客户端
+用户名：ysscs_acs
+密码：sV1K%y.3
+
+
+
 git:
+
+新http://192.168.101.212:8929/
 
 http://192.168.101.212:8929/acs/businesssystemxc/code/support/fundacc
 
