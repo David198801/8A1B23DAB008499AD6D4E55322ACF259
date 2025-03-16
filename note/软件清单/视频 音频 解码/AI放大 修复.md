@@ -6,6 +6,8 @@ Boston legal s1e1
 
 
 
-游戏
+实时放大/超分辨率
 
-https://github.com/Z-Dante/Magpie/releases
+小黄鸭（Lossless Scaling）
+
+Magpie，https://github.com/Z-Dante/Magpie/releases
