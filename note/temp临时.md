@@ -20,11 +20,9 @@ wsnwnmtagu@hotmail.com----7VnMg7ST6qt----sk-MX45jH2JXSVipAd1m98DT3BlbkFJZhyfKRLp
 
 https://mojie.app/api/v1/client/subscribe?token=971d0edd1ae6bc562c5e0025a8a23f43
 
-养老，橘子
+樱花猫，https://sakura-cat1.com/，https://dokidokiweb.com
 
-https://bf05fb7c-18c6-4769-83b9-6ad4dc46fb6e.xn--l6qx3lcvp58x.com/api/v1/client/subscribe?token=0adb06e55998eb6595bba86df852b97f
-
-樱花猫，临时
+临时,史诗
 
 https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=b481819fe3a315d457621bc2fc9c79d5
 
