@@ -1,2 +1,4 @@
-Gigapixel AI放大
+Topaz Gigapixel AI放大
+
+PhotoZoom
 
