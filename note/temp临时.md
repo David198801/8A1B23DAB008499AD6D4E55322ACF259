@@ -16,7 +16,7 @@ wsnwnmtagu@hotmail.com----7VnMg7ST6qt----sk-MX45jH2JXSVipAd1m98DT3BlbkFJZhyfKRLp
 
 加速
 
-魔戒，临时
+魔戒，临时，默认密码
 
 https://mojie.app/api/v1/client/subscribe?token=971d0edd1ae6bc562c5e0025a8a23f43
 
