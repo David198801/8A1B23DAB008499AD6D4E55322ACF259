@@ -1,14 +1,12 @@
-oracle block大小默认为8K
-
+smallfile 最大32G
 ```
 create tablespace ...
 ```
-smallfile block为8K时 最大32G
-
+bigfile 最大32T
 ```
 create bigfile tablespace ...
 ```
-bigfile block为8K时 最大32T
+
 
 
 
