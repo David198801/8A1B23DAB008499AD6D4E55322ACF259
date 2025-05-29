@@ -1,4 +1,8 @@
-browserify
+
+
+node库转浏览器库
+
+# browserify
 
 http://browserify.org/
 
@@ -17,6 +21,12 @@ window.iconv = iconv;                 //全局声明常量iconv
 npx browserify main.js -o bundle.js
 
 <script src="bundle.js"></script>
+```
+
+简化，安装完成后直接执行，-r相当于require
+
+```javascript
+npx browserify -r prettier-plugin-sql -o prettier-plugin-sql.js
 ```
 
 
