@@ -1,0 +1,5 @@
+
+获取cloudflare warp的原生ip 
+```
+wget -N https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh
+```

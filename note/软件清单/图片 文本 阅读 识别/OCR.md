@@ -2,6 +2,9 @@ ABBYY
 
 天诺ocr，https://github.com/AnyListen/tianruoocr
 
+天若OCR开源版V5.0.0
+https://github.com/AnyListen/tianruoocr/releases
+
 树洞OCR，https://github.com/AnyListen/tools-ocr
 
 Umi-OCR，https://github.com/hiroi-sora/Umi-OCR，使用PaddleOCR引擎
