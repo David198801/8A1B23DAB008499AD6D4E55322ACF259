@@ -2,54 +2,55 @@ https://www.zhihu.com/question/38192507?sort=created
 
 
 
-本地反代
+# 本地反代
 
-watt、steamcommunity 302
+watt
+
+steamcommunity 302
+
+fastgithub：https://gh.09430943.xyz/https://github.com/creazyboyone/FastGithub/releases/latest/download/fastgithub-win-x64.zip
 
 
 
-加速
+# ghproxy
+
+https://ghfast.top/
+
+发布页：https://ghproxy.link/
+
+## 自搭
+
+https://gh.09430943.xyz/
+
+## 搭建python、cf worker：
+
+https://github.com/hunshcn/gh-proxy
+
+
+
+# 加速
 
 https://github.com.cnpmjs.org/
 
 https://hub.fastgit.org/
 
+https://gitclone.com/
 
 
-ghproxy，镜像，git、gits、githubusercontent、release
 
-https://mirror.ghproxy.com/
-
-https://ghproxy.org/
+# 镜像
 
 https://kkgithub.com/
 
 https://dgithub.xyz/
 
-```javascript
-https://mirror.ghproxy.com/https://github.com/placemarker/jQuery-MD5.git
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/stilleshan/ServerStatus/master/Dockerfile
-```
-
-搭建python、cf worker：https://github.com/hunshcn/gh-proxy
-
-自
-
-https://gh.work0943.top/
 
 
-
-压缩包下载
+# 压缩包下载
 
 https://d.serctl.com/
 
 https://toolwa.com/github/
-
-
-
-镜像，加速git
-
-https://gitclone.com/
 
 
 

@@ -4,7 +4,11 @@ GIMP
 
 网页版
 
-https://www.photopea.com/
+photopea, https://www.photopea.com/
+
+Pixlr
+
+paint.net
 
 
 
