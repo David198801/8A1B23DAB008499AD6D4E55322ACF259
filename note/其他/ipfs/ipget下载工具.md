@@ -5,8 +5,8 @@ ipget
 # linux
 
 ```javascript
-wget https://dist.ipfs.io/ipget/v0.12.0/ipget_v0.9.0_linux-amd64.tar.gz
-tar -xzvf ipget_v0.9.0_linux-amd64.tar.gz
+wget https://dist.ipfs.io/ipget/v0.11.0/ipget_v0.11.0_linux-amd64.tar.gz
+tar -xzvf ipget_v0.11.0_linux-amd64.tar.gz
 sudo mv ipget/ipget /usr/local/bin/
 ```
 
@@ -17,5 +17,11 @@ sudo mv ipget/ipget /usr/local/bin/
 ipget <cid> --progress
 # 后台
 nohup ipget <cid> &
+```
+
+# Windows
+
+```javascript
+https://dist.ipfs.tech/ipget/v0.11.0/ipget_v0.11.0_windows-amd64.zip
 ```
 
